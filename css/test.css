@@ -29,7 +29,7 @@ ul > li {
     border-bottom: 1px solid #000;
 }
 .aside {
-    color: lavender;
+    background-color: lavender;
     padding: 10px 20px;
 }
 .post {
@@ -40,7 +40,6 @@ body {
     line-height: 1.5;
 }
 a {
-    color: rebeccapurple;
     text-decoration: none;
     font-weight: 700;
 }
@@ -54,12 +53,12 @@ footer {
     background-color:rebeccapurple;
     font-weight: 700;
 }
-.h1, h2, h3 {
+.h1, h1, h2, h3 {
     text-transform: uppercase;
     letter-spacing: 0.5px;
     }
 section {
-    color:lavender;
+    background-color:lavender;
     padding: 5px 20px;
     margin-bottom: 20px;
 }
